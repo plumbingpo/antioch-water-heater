@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antiochwaterheater.com/sitemap.xml
